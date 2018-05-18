@@ -1,0 +1,64 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/matthew/Dropbox/school/advanced-nlp/grading-tools
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://127.0.0.1:8889/?token=ac49feb8f4965bdf1d00c08f95a6185e4e67dea9b194021e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://127.0.0.1:8889/?token=ac49feb8f4965bdf1d00c08f95a6185e4e67dea9b194021e
+[NotebookApp | INFO] 302 GET /?token=ac49feb8f4965bdf1d00c08f95a6185e4e67dea9b194021e (127.0.0.1) 0.55ms
+[NotebookApp | INFO] Creating new notebook in /example
+[NotebookApp | INFO] Kernel started: 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Starting buffering for 59655c67-d131-4e3a-858f-d4d07e36645c:ff8f6f06f991474e84225989208a9682
+[NotebookApp | INFO] Kernel restarted: 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | INFO] Kernel restarted: 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | INFO] Restoring connection for 59655c67-d131-4e3a-858f-d4d07e36645c:ff8f6f06f991474e84225989208a9682
+[NotebookApp | INFO] Replaying 8 buffered messages
+[NotebookApp | INFO] Starting buffering for 59655c67-d131-4e3a-858f-d4d07e36645c:ff8f6f06f991474e84225989208a9682
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | INFO] Restoring connection for 59655c67-d131-4e3a-858f-d4d07e36645c:ff8f6f06f991474e84225989208a9682
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Starting buffering for 59655c67-d131-4e3a-858f-d4d07e36645c:ff8f6f06f991474e84225989208a9682
+[NotebookApp | INFO] Kernel restarted: 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | INFO] Restoring connection for 59655c67-d131-4e3a-858f-d4d07e36645c:ff8f6f06f991474e84225989208a9682
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Starting buffering for 59655c67-d131-4e3a-858f-d4d07e36645c:ff8f6f06f991474e84225989208a9682
+[NotebookApp | INFO] Kernel shutdown: 59655c67-d131-4e3a-858f-d4d07e36645c
+[NotebookApp | WARNING] Notebook example/example.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 14a0cdf8-a3fb-4950-a6df-7b67626d5d41
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 14a0cdf8-a3fb-4950-a6df-7b67626d5d41
+[NotebookApp | INFO] Starting buffering for 14a0cdf8-a3fb-4950-a6df-7b67626d5d41:0cb4703b9e88495c8f985766934e9057
+[NotebookApp | WARNING] Notebook example/example-answers.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ebba3d9b-bdb7-40a6-a03f-0915c11c7802
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ebba3d9b-bdb7-40a6-a03f-0915c11c7802
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | WARNING] Notebook example/example.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 14a0cdf8-a3fb-4950-a6df-7b67626d5d41
+[NotebookApp | INFO] Starting buffering for 14a0cdf8-a3fb-4950-a6df-7b67626d5d41:33df5b727cf349fa88e4f694408ff699
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ebba3d9b-bdb7-40a6-a03f-0915c11c7802
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Saving file at /example/example-answers.ipynb
+[NotebookApp | INFO] Kernel shutdown: 14a0cdf8-a3fb-4950-a6df-7b67626d5d41
+[NotebookApp | INFO] Kernel shutdown: ebba3d9b-bdb7-40a6-a03f-0915c11c7802
+[NotebookApp | WARNING] Notebook example/example.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b56a2f49-1e30-453a-94d8-810fd53ec45d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b56a2f49-1e30-453a-94d8-810fd53ec45d
+[NotebookApp | INFO] Starting buffering for b56a2f49-1e30-453a-94d8-810fd53ec45d:1bf9997e961b4048985131b08ae3c766
